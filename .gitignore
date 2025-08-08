@@ -1,0 +1,20 @@
+#Terraform files
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+.terraform.lock.hcl
+
+# Local override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
