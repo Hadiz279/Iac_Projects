@@ -1,4 +1,4 @@
-# HAzy_Coderz Terraform_Tasks 
+# Hazy_Coderz Terraform_Tasks 
 
 # IaC Projects
 
