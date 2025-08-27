@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+terraform.tfvars
+terraform.tfvars.json
+
+# Local environment files
+.env
+*.tfvars.local
+
+# Python
+__py
